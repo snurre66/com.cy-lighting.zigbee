@@ -1,0 +1,20 @@
+{
+  "name": "com.cy-lighting.zigbee",
+  "version": "1.0.0",
+  "description": "Control your Tunable White bulbs with Homey!",
+  "main": "app.js",
+  "dependencies": {
+    "homey-log": "^1.0.6",
+    "homey-zigbeedriver": "^1.6.0",
+    "zigbee-clusters": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "homeyConfig compose && athom project --run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "ISC",
+  "bugs": ""
+}
