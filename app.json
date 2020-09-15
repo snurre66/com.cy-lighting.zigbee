@@ -23,8 +23,8 @@
     ]
   },
   "images": {
-    "large": "assets/images/large.png",
-    "small": "assets/images/small.png"
+    "large": "assets/images/large.svg",
+    "small": "assets/images/small.svg"
   },
   "drivers": [
     {
@@ -48,8 +48,8 @@
         }
       },
       "images": {
-        "large": "drivers/lightify_dimmable_white/assets/images/large.png",
-        "small": "drivers/lightify_dimmable_white/assets/images/small.png"
+        "large": "drivers/lightify_dimmable_white/assets/images/large.svg",
+        "small": "drivers/lightify_dimmable_white/assets/images/small.svg"
       },
       "zigbee": {
         "manufacturerName": "CY-LIGHTING",
