@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "sdk": 3,
   "compatibility": ">=5.0.0",
-  "brandColor": "#FF6700",
+	"brandColor": "#FF6700",
   "category": "lights",
   "name": {
     "en": "CY-LIGHTING"
@@ -12,7 +12,7 @@
     "en": "Brighten up your smart home with the Zigbee lighting solutions from CY-LIGHTING"
   },
   "author": {
-    "name": "ThV"
+    "name": "Thomas"
   },
   "contributors": {
     "developers": [
