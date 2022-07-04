@@ -1,0 +1,17 @@
+{
+  "title": {
+    "en": "Test"
+  },
+  "args": [
+    {
+      "type": "number",
+      "name": "Dimlevel",
+      "placeholder": {
+        "en": "dimlevel"
+      },
+      "min": 0,
+      "max": 100,
+      "step": 1
+    }
+  ]
+}

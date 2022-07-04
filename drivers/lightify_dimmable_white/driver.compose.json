@@ -4,8 +4,9 @@
   },
   "class": "light",
   "capabilities": [
-    "onoff",
-    "dim"
+    "measure_battery",
+    "dim",
+    "onoff"
   ],
   "capabilitiesOptions": {
     "dim": {
