@@ -9,6 +9,9 @@ https://www.zigbee2mqtt.io/devices/DM_A60F.html
 
 
 #### Changelog
+1.1.0
+- Homeycompose
+
 1.0.0
 - Added first bulb
 
