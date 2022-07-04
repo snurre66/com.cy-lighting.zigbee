@@ -1,9 +1,10 @@
 {
+  "_comment": "This file is generated. Please edit .homeycompose/app.json instead.",
   "id": "com.cy-lighting.zigbee",
   "version": "1.0.0",
   "sdk": 3,
   "compatibility": ">=5.0.0",
-	"brandColor": "#FF6700",
+  "brandColor": "#FF6700",
   "category": "lights",
   "name": {
     "en": "CY-LIGHTING"
@@ -28,7 +29,6 @@
   },
   "drivers": [
     {
-      "id": "lightify_dimmable_white",
       "name": {
         "en": "Dimmable White Bulb E27 (ZigBee)"
       },
@@ -70,8 +70,8 @@
           }
         }
       },
-      "settings": []
+      "settings": [],
+      "id": "lightify_dimmable_white"
     }
-  ],
-  "flow": {}
+  ]
 }
