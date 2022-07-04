@@ -94,7 +94,6 @@
       },
       "class": "light",
       "capabilities": [
-        "measure_battery",
         "dim",
         "onoff"
       ],
