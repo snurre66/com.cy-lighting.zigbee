@@ -1,0 +1,29 @@
+{
+  "id": "com.cy-lighting.zigbee",
+  "version": "1.0.0",
+  "sdk": 3,
+  "compatibility": ">=5.0.0",
+  "brandColor": "#FF6700",
+  "category": "lights",
+  "name": {
+    "en": "CY-LIGHTING"
+  },
+  "description": {
+    "en": "Brighten up your smart home with the Zigbee lighting solutions from CY-LIGHTING"
+  },
+  "author": {
+    "name": "Thomas Veivåg"
+  },
+  "contributors": {
+    "developers": [
+      {
+        "name": "Thomas Veivåg",
+        "email": "thomas.veivag@gmail.com"
+      }
+    ]
+  },
+  "images": {
+    "large": "assets/images/large.svg",
+    "small": "assets/images/small.svg"
+  }
+}
