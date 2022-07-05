@@ -7,13 +7,13 @@ class LightifyDimmableWhiteZigBee extends ZigBeeLightDevice {
 		return {
 			'DM A60F': {
 				approximation: {
-					usageOff: 0.5,
+					usageOff: 0.0,
 					usageOn: 6.0,
 				},
 			},
 			'DM A60F': {
 				approximation: {
-					usageOff: 0.5,
+					usageOff: 0.0,
 					usageOn: 6.0,
 				},
 			},
