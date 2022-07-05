@@ -17,6 +17,12 @@
       "setOnDim": false
     }
   },
+  "energy": {
+    "batteries": [
+      "AAA",
+      "AAA"
+    ]
+  },
   "images": {
     "large": "drivers/lightify_dimmable_white/assets/images/large.svg",
     "small": "drivers/lightify_dimmable_white/assets/images/small.svg"
