@@ -27,66 +27,6 @@
     "large": "assets/images/large.svg",
     "small": "assets/images/small.svg"
   },
-  "flow": {
-    "actions": [
-      {
-        "title": {
-          "en": "Test"
-        },
-        "args": [
-          {
-            "type": "number",
-            "name": "Dimlevel",
-            "placeholder": {
-              "en": "dimlevel"
-            },
-            "min": 0,
-            "max": 100,
-            "step": 1
-          }
-        ],
-        "id": "3"
-      },
-      {
-        "id": "2",
-        "title": {
-          "en": "Light On"
-        },
-        "args": [
-          {
-            "type": "device",
-            "name": "device",
-            "filter": "driver_id=lightify_dimmable_white"
-          },
-          {
-            "type": "number",
-            "name": "DimLevel",
-            "placeholder": {
-              "en": "dimlevel"
-            },
-            "min": 10,
-            "max": 100,
-            "step": 10
-          }
-        ]
-      }
-    ],
-    "triggers": [
-      {
-        "id": "1",
-        "title": {
-          "en": "When Light On"
-        },
-        "args": [
-          {
-            "type": "device",
-            "name": "device",
-            "filter": "driver_id=lightify_dimmable_white"
-          }
-        ]
-      }
-    ]
-  },
   "drivers": [
     {
       "name": {
@@ -104,7 +44,7 @@
           }
         },
         "onoff": {
-          "setOnDim": false
+          "setOnDim": true
         }
       },
       "images": {
